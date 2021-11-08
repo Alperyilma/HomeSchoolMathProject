@@ -1,0 +1,9 @@
+.bluecell{
+ padding: 4px;
+ background-color: #90d3ec;
+ border: 3px dotted #2aa0c5;
+ float: left;
+ min-height: 250px;
+ margin: 8px;
+ text-align: left;   
+}
